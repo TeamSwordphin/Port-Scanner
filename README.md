@@ -1,5 +1,5 @@
 # Port Scanner
 For the CODE Student Challenge.
 
-Run in Terminal ``python
+Run in Terminal ``
 python scanner.py <IP address>``
